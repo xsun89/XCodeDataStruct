@@ -25,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8328EE4419720A93005FD5C6 /* graphVetex.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = graphVetex.h; sourceTree = "<group>"; };
 		83F418771972084600C902AC /* MyDataStructXcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MyDataStructXcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		83F4187A1972084600C902AC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		83F4187C1972084600C902AC /* MyDataStructXcode.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = MyDataStructXcode.1; sourceTree = "<group>"; };
@@ -62,6 +63,7 @@
 			children = (
 				83F4187A1972084600C902AC /* main.cpp */,
 				83F4187C1972084600C902AC /* MyDataStructXcode.1 */,
+				8328EE4419720A93005FD5C6 /* graphVetex.h */,
 			);
 			path = MyDataStructXcode;
 			sourceTree = "<group>";
@@ -227,6 +229,7 @@
 				83F418821972084600C902AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
